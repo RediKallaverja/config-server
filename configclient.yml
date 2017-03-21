@@ -5,5 +5,4 @@ server:
 message:
   greeting: Hello from the configuration!
 filter:
-  url:/enterprise-resources/public/payment/
- 
+  url: /enterprise-resources/public/payment/
