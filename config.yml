@@ -26,11 +26,7 @@ zuul:
             url: http://195.233.190.232:8002/enterprise-resources/public/payment/
 server:
     port: 443
-#    ssl:  
-#      key-store: classpath:api-mobile-vfal.jks
-#      key-store-password: 4p1zuul2017vF4L
-#      key-password: "[m0bB01p$].t3st1"
-      
+    
 ribbon:
     eureka:
         enabled: false
