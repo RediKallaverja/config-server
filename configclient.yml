@@ -1,7 +1,7 @@
 configuration:  
   projectName: configclient
 server:
-  port: 8000
+  port: 8080
 message:
   greeting: Hello from the configuration!
 filter:
