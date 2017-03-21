@@ -1,3 +1,5 @@
+configuration:  
+  projectName: config
 zuul:
     routes:
         book:
