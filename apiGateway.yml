@@ -6,7 +6,7 @@ zuul:
   routes:
     route1:
       url: http://localhost:8080/team/
-      path: /tm1/**
+      path: /tm/**
     route2:
       url: http://localhost:8080/config/
       path: /config/**
