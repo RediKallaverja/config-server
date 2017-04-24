@@ -4,5 +4,3 @@ server:
   port: 8080
 message:
   greeting: Hello from the configuration!
-filter:
-  url: /enterprise-resources/public/payment/
