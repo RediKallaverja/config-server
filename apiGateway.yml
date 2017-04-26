@@ -5,10 +5,10 @@ server:
 zuul:  
   routes:
     route1:
-      url: http://localhost:8080/team/
+      url: http://localhost:8000/team/
       path: /tm/**
     route2:
-      url: http://localhost:8080/config/
+      url: http://localhost:8000/config/
       path: /config/**
 ribbon:
     eureka:
