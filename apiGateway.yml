@@ -2,6 +2,9 @@ configuration:
   projectName: gateway-ui
 server:  
   port: 9000
+  error:
+    whitelabel:
+      enabled=false
 zuul:  
   routes:
     route1:
